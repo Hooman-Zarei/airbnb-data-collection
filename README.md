@@ -1,2 +1,2 @@
-# airbnb-data-collection
-Simple airbnb data collection.
+# data-collection
+Simple data collection.
